@@ -6,6 +6,11 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
         <item name="titleTextColor">@color/colorAccent</item>
+        <item name="editTextColor">@color/colorAccent</item>
+    </style>
+
+    <style name="InputTextStyle" parent="android:Widget.Material.EditText">
+        <item name="android:textColor">@color/colorAccent</item>
     </style>
 
 </resources>
