@@ -8,4 +8,4 @@ basandose en la [imagen de muestra](./app/src/main/res/drawable/revisionporpares
 
 ##Screenshots
 
-![MainActivity](./Formulario1.png.png)
+![MainActivity](./Formulario1.png)
